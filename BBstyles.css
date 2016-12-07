@@ -1,5 +1,4 @@
 body {
-    font-family: 'Just Another Hand', cursive;
     background-color: powderblue;
 }
 h1 {
@@ -7,4 +6,5 @@ h1 {
 }
 p {
     color: red;
+    font-family: 'Just Another Hand', cursive;
 }
